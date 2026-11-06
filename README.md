@@ -1,3 +1,16 @@
+<!-- MINDSLAB-PAPER-METADATA:START -->
+# CANE
+
+**Paper:** Where LLM Annotators Fail: Label-Free Learning on Graphs with LLMs
+
+**Authors:** Safal Thapaliya, Jiatan Huang, Chuxu Zhang
+
+**Paper link:** [2605.27913](https://arxiv.org/abs/2605.27913)
+
+<!-- MINDSLAB-PAPER-METADATA:END -->
+
+---
+
 # CANE: Cluster-Aware Noise Estimation
 
 Official code for the paper **“Where LLM Annotators Fail: Label-Free Learning on
